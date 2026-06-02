@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 )
 
 var _ scrapemate.JobProvider = (*Provider)(nil)

@@ -8,7 +8,7 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/gosom/google-maps-scraper/exiter"
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 )
 
 type SearchJobOptions func(*SearchJob)

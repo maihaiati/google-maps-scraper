@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 	"github.com/stretchr/testify/require"
 
 	"github.com/gosom/google-maps-scraper/gmaps"

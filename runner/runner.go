@@ -20,7 +20,7 @@ import (
 	"github.com/gosom/google-maps-scraper/tlmt"
 	"github.com/gosom/google-maps-scraper/tlmt/gonoop"
 	"github.com/gosom/google-maps-scraper/tlmt/goposthog"
-	"github.com/gosom/scrapemate/scrapemateapp"
+	"github.com/maihaiati/scrapemate/scrapemateapp"
 )
 
 const (

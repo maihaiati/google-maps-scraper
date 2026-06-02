@@ -10,7 +10,7 @@ import (
 	"os"
 
 	"github.com/gosom/google-maps-scraper/gmaps"
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 )
 
 var _ scrapemate.ResultWriter = (*exampleWriter)(nil)

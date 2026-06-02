@@ -9,7 +9,7 @@ import (
 	"github.com/gosom/google-maps-scraper/gmaps"
 	"github.com/gosom/google-maps-scraper/internal/jsonbsanitize"
 	"github.com/gosom/google-maps-scraper/log"
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 

@@ -15,7 +15,7 @@ import (
 	"github.com/gosom/google-maps-scraper/exiter"
 	"github.com/gosom/google-maps-scraper/gmaps"
 	"github.com/gosom/google-maps-scraper/grid"
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 )
 
 func CreateSeedJobs(

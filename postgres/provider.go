@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 
 	"github.com/gosom/google-maps-scraper/gmaps"
 )

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 	"github.com/stretchr/testify/require"
 )
 

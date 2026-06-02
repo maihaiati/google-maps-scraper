@@ -13,8 +13,8 @@ import (
 	"github.com/gosom/google-maps-scraper/postgres"
 	"github.com/gosom/google-maps-scraper/runner"
 	"github.com/gosom/google-maps-scraper/tlmt"
-	"github.com/gosom/scrapemate"
-	"github.com/gosom/scrapemate/scrapemateapp"
+	"github.com/maihaiati/scrapemate"
+	"github.com/maihaiati/scrapemate/scrapemateapp"
 )
 
 type dbrunner struct {

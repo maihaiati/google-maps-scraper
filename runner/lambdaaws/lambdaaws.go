@@ -17,9 +17,9 @@ import (
 
 	"github.com/gosom/google-maps-scraper/exiter"
 	"github.com/gosom/google-maps-scraper/runner"
-	"github.com/gosom/scrapemate"
-	"github.com/gosom/scrapemate/adapters/writers/csvwriter"
-	"github.com/gosom/scrapemate/scrapemateapp"
+	"github.com/maihaiati/scrapemate"
+	"github.com/maihaiati/scrapemate/adapters/writers/csvwriter"
+	"github.com/maihaiati/scrapemate/scrapemateapp"
 )
 
 var _ runner.Runner = (*lambdaAwsRunner)(nil)

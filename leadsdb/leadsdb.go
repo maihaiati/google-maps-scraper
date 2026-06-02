@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gosom/go-leadsdb"
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 
 	"github.com/gosom/google-maps-scraper/gmaps"
 )

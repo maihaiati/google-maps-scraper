@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 	"github.com/jackc/pgx/v5/pgconn"
 
 	"github.com/gosom/google-maps-scraper/gmaps"

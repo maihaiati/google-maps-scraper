@@ -775,7 +775,7 @@ See [AGENTS.md](AGENTS.md) for development guidelines.
 - [Distributed Google Maps Scraping](https://blog.gkomninos.com/distributed-google-maps-scraping)
 - [Deploy your own Maps scraping API in 5 minutes (includes video walkthrough)](https://gosom.dev/deploy-your-own-maps-scraping-api-in-5-minutes/)
 - [Video walkthrough (YouTube)](https://www.youtube.com/watch?v=STG9mZw_nac)
-- [scrapemate](https://github.com/gosom/scrapemate) - The underlying web crawling framework
+- [scrapemate](https://github.com/maihaiati/scrapemate) - The underlying web crawling framework
 - [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - Inspiration for JS data extraction
 
 ---

@@ -7,7 +7,7 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/google/uuid"
-	"github.com/gosom/scrapemate"
+	"github.com/maihaiati/scrapemate"
 	"github.com/mcnijman/go-emailaddress"
 
 	"github.com/gosom/google-maps-scraper/exiter"
